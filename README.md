@@ -1,2 +1,4 @@
-# mia-test-bot
-still needs some work
+`# miakurtz-bot`  
+
+
+![img](assets/mia.png)
