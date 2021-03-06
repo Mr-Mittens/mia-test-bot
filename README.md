@@ -1,4 +1,4 @@
-`# miakurtz-bot`  
+` miakurtz-test-bot`  
 
 
-![img](assets/mia.png)
+![img](assets/mia.jpg)
